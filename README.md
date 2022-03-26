@@ -1,2 +1,2 @@
 # pbankApp
-A Small Test Project Above Class,Method,File,List,Loop,Exception...
+Small Test Project (Above Class,Method,File,List,Loop,Exception...)
